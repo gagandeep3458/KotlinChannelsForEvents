@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KotlinChannelsForEvents</string>
+    <string name="none">none</string>
+    <string name="get_result">Get Result</string>
+    <string name="get_error">Get Error</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="next_screen">Next Screen</string>
+    <string name="message">Message</string>
+    <string name="search">Search</string>
+</resources>
